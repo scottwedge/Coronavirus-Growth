@@ -1,1 +1,1 @@
-# Coronavirus Growth Rate using LSTM Time Series Forecasting
+# Predicting Coronavirus Growth Rate using LSTM Time Series Forecasting
