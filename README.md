@@ -1,4 +1,5 @@
 # Predicting Coronavirus Growth Rate using LSTM Time Series Forecasting
+*Last Updated: April 9, 2020*
 
 ## What is a LSTM?
 LSTM stands for Long-Short Term Neural Network and is a type of recurrent neural network that uses past data to make a prediction about the future. These types of neural networks could be used in all kinds of complex problems such as speech recognition and anamoly detection. 
